@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <img src="Lucentra Logo Final.png" alt="Lucentra Logo Final" width="200">
+
   <title>Lucentra Investments</title>
 </head>
 <body>
